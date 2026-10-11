@@ -24,7 +24,7 @@ Each document is kept in three equivalent forms:
 
 ## Citation and archive
 
-Every release of this repository is archived on Zenodo. The DOI above always resolves to the latest version, and each release also has its own DOI. GitHub's "Cite this repository" button uses the metadata in `CITATION.cff`.
+Every release of this repository is archived on Zenodo. The DOI above always resolves to the latest version, and each release also has its own DOI. The dated disclosure record, with SHA-256 hashes of each file, is at [ontology.siso-framework.org/archive](https://ontology.siso-framework.org/archive/). GitHub's "Cite this repository" button uses the metadata in `CITATION.cff`.
 
 ## License
 
