@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you cite these essays, please cite them using the metadata below."
+type: dataset
+title: "SISO Foundation: SISO Ontology and SISO Ontology to Computation"
+authors:
+  - family-names: Bailey
+    given-names: Jonathan
+abstract: >-
+  Two foundational essays of SISO (Stream In, Stream Out). SISO Ontology argues
+  that reality is process rather than objects, with thirty-nine annotations
+  placing ideas from the process and object traditions. SISO Ontology to
+  Computation traces software, devices and ideas from clay tokens to the
+  transformer, and what each contributes and where each diverges.
+keywords:
+  - SISO
+  - ontology
+  - process philosophy
+  - history of computing
+license: CC-BY-SA-4.0
